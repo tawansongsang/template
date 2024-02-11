@@ -2,3 +2,7 @@
 	path = axum-sqlserver-template
 	url = git@github.com:tawansongsang/axum-sqlserver-template.git
 	branch = main
+[submodule "fe-next-template"]
+	path = fe-next-template
+	url = git@github.com:tawansongsang/fe-next-template.git
+	branch = main
