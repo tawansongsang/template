@@ -1,0 +1,4 @@
+[submodule "axum-sqlserver-template"]
+	path = axum-sqlserver-template
+	url = git@github.com:tawansongsang/axum-sqlserver-template.git
+	branch = main
