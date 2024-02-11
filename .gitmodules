@@ -6,3 +6,7 @@
 	path = fe-next-template
 	url = git@github.com:tawansongsang/fe-next-template.git
 	branch = main
+[submodule "axum-surreal-template"]
+	path = axum-surreal-template
+	url = git@github.com:tawansongsang/axum-surreal-template.git
+	branch = main
