@@ -10,3 +10,7 @@
 	path = axum-surreal-template
 	url = git@github.com:tawansongsang/axum-surreal-template.git
 	branch = main
+[submodule "axum-postgresql-template"]
+	path = axum-postgresql-template
+	url = git@github.com:tawansongsang/axum-postgresql-template.git
+	branch = main
